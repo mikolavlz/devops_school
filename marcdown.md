@@ -45,3 +45,10 @@
 Изображение:
 
 ![Пример изображения](https://www.freecodecamp.org/news/content/images/2023/01/Screenshot-2023-01-31-at-2.46.12-PM.png)
+
+Далее 
+
+Git pull - собрать изменения 
+Git push - Отправить изменения 
+git clone - скопировать файлы
+cd - переключение между папками
